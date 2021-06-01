@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Membuat biodata diri</title>
+	<title>Membuat Biodata Mahasiswa</title>
 </head>
 <body bgcolor="#84888b">
 <h1 align="center">BIODATA MAHASISWA</h1>
 <br>    
-<table border="1" cellspacing="0" cellpadding="5" align="center" width="800" >
-	<tr align="center" bgcolor="#ae8f60">
+<table border="1" cellspacing="0" cellpadding="5" align="center" width="750" >
+	<tr align="center" bgcolor="#DEB887">
 		<th width="200">DATA MAHASISWA</th>
 		<th width="400">KETERANGAN</th>
 		<th width="200">FOTO</th>
@@ -43,7 +43,7 @@
 	<br>
 
 	<tr>
-		<td colspan="3" align="center"><a href="index.html">kembali</a></td>
+		<td colspan="3" align="center"><a href="index.html">Kembali</a></td>
 		
 		
 	</tr>
