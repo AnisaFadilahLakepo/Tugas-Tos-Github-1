@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Membuat biodata mahasiswa</title>
+	<title>Membuat Biodata Mahasiswa</title>
 </head>
 <body bgcolor="#84888b">
 <h1 align="center">BIODATA MAHASISWA</h1>
@@ -37,6 +37,9 @@
 		<td>Hobi</td>
 		<td>Menonton</td>
 	</tr>
+	<tr>
+		<td>Jurusan</td>
+		<td>Sistem Informasi</td
 				
 		</tr>
 	<br>
