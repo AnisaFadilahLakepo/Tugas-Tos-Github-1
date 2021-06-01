@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Membuat biodata diri</title>
+	<title>Biodata Diri Mahasiswa</title>
 </head>
 <body bgcolor="#84888b">
 <h1 align="center">BIODATA MAHASISWA</h1>
@@ -23,7 +23,7 @@
 	</tr>
 	<tr>
 		<td>Alamat</td>
-		<td>Bolaang Mongondow</td>
+		<td>Kotamobagu</td>
 	</tr>
 	<tr>
 		<td>Agama</td>
