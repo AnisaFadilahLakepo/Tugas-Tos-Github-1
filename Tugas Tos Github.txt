@@ -39,7 +39,7 @@
 	</tr>
 	<tr>
 		<td>Jurusan</td>
-		<td>Sistem Informasi</td
+		<td>Sistem Informasi</td>
 				
 		</tr>
 	<br>
